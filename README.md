@@ -74,7 +74,7 @@ This project is more than just a quiz—it’s a learning companion. By providin
 This project demonstrates how essential front-end technologies can be used to build a complete, interactive web application. It reflects a strong understanding of Web Application principles, functional programming techniques, and responsive web development, making it a valuable portfolio addition for anyone pursuing web development.
 
 
-##OUTPUT
+## 💻	OUTPUT
 
 <img width="1600" height="731" alt="Image" src="https://github.com/user-attachments/assets/b55bcfd8-6c0f-4103-8ad1-7f4dabddede6" />
 <img width="1600" height="728" alt="Image" src="https://github.com/user-attachments/assets/9ebb01d6-e1fc-452f-a2e9-754a6de7c319" />
